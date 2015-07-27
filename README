@@ -1,0 +1,8 @@
+Packer_ELF
+
+Simple packer:
+
+- Add a section to the binary
+- Entry point is on the new section
+- The code deciphers the .text section
+- jump to the .text section
